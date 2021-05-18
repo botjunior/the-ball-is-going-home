@@ -1,0 +1,153 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.985; Version 2009; 64bit' Language: 'ru' Physical Memory: 12156 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\[Unity]\[BasicLocation]\2020.3.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/[git]/old/tmp/New Unity Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64505
+Successfully changed project path to: D:/[git]/old/tmp/New Unity Project
+D:/[git]/old/tmp/New Unity Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 32.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path D:/[Unity]/[BasicLocation]/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/[git]/old/tmp/New Unity Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   
+    VRAM:     2010 MB
+    Driver:   27.21.14.6589
+Initialize mono
+Mono path[0] = 'D:/[Unity]/[BasicLocation]/2020.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'D:/[Unity]/[BasicLocation]/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/[Unity]/[BasicLocation]/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56936
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/[Unity]/[BasicLocation]/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001666 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 35.85 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.443 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000695 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.572 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.7 MB.
+System memory in use after: 57.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1571.
+Total: 2.679300 ms (FindLiveObjects: 0.162600 ms CreateObjectMapping: 0.046000 ms MarkObjects: 2.399300 ms  DeleteObjects: 0.070300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/FPS/Art/Materials/VFX/PickupSparkles.mat
+  artifactKey: Guid(bd15f58914d13654ea82dac46526077b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Art/Materials/VFX/PickupSparkles.mat using Guid(bd15f58914d13654ea82dac46526077b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77150b4fc64fc39357ec70d9d929022d') in 0.236001 seconds
+  Import took 0.239654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Scenes/Levels/Level3/ReflectionProbe-0.exr
+  artifactKey: Guid(b8fe03e4f6b084248bf52d1a49ef30d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Levels/Level3/ReflectionProbe-0.exr using Guid(b8fe03e4f6b084248bf52d1a49ef30d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdc27fc11d01a1064c01dd623c60f967') in 0.212465 seconds
+  Import took 0.215682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Scenes/Levels/Level2/LightingData.asset
+  artifactKey: Guid(eb6a0f7884c90d247bd5fb241e0e3ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Levels/Level2/LightingData.asset using Guid(eb6a0f7884c90d247bd5fb241e0e3ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1f420ba9d3d8297b0739995a2206dff') in 0.068664 seconds
+  Import took 0.071437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Scenes/Levels/Level2
+  artifactKey: Guid(7be43200f3cd2e8408f051a39a27ea27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Levels/Level2 using Guid(7be43200f3cd2e8408f051a39a27ea27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43814236f43d11a81d78e7fc1e77274e') in 0.050774 seconds
+  Import took 0.060541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Scenes/Levels/Level2/LightingData.asset
+  artifactKey: Guid(eb6a0f7884c90d247bd5fb241e0e3ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Levels/Level2/LightingData.asset using Guid(eb6a0f7884c90d247bd5fb241e0e3ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1f420ba9d3d8297b0739995a2206dff') in 0.047063 seconds
+  Import took 0.049834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Scenes/Levels/Level1/ReflectionProbe-0.exr
+  artifactKey: Guid(a1716b345028ef94ab5adbdc9dbf98d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Levels/Level1/ReflectionProbe-0.exr using Guid(a1716b345028ef94ab5adbdc9dbf98d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9f815308337f550a4b526f03a9c5e9e') in 0.060696 seconds
+  Import took 0.063619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Scenes/Levels/Level2/ReflectionProbe-0.exr
+  artifactKey: Guid(1bd2393010a173245a58c401f41e1670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Levels/Level2/ReflectionProbe-0.exr using Guid(1bd2393010a173245a58c401f41e1670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2db5a51f772afa06f95f678a14658c8b') in 0.061471 seconds
+  Import took 0.064781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/FPS/Art/Materials/VFX/MuzzleFlash.mat
+  artifactKey: Guid(eb52fb0b8eb988248aac01ce3d48f122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Art/Materials/VFX/MuzzleFlash.mat using Guid(eb52fb0b8eb988248aac01ce3d48f122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc60ee0915cfd4f8123827416fd39ace') in 0.058388 seconds
+  Import took 0.062759 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.022741 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.089 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1121 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.0 MB.
+System memory in use after: 61.1 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1616.
+Total: 2.505200 ms (FindLiveObjects: 0.258100 ms CreateObjectMapping: 0.058800 ms MarkObjects: 2.167500 ms  DeleteObjects: 0.018900 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
